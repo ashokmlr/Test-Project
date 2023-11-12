@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://aditya-sridhar.github.io/simple-reactjs-app",
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^1.6.0",
     "grommet": "^2.12.0",
     "react": "^16.10.1",
     "react-bootstrap": "^0.32.1",
